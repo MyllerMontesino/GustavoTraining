@@ -248,6 +248,10 @@ H5 {
         margin-top: -3.5rem;
     }
 
+    article h2{
+        font-size:2rem;
+    }
+
     footer {
         font-size: 0.5rem;
     }
