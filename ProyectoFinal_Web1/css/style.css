@@ -166,8 +166,8 @@ iframe {
     }
 
     .logo {
-    width: 50% !important;
-    height: 50% !important;
+    width: 50rem;
+    height: 5em;
     margin-bottom: 1rem;
     margin-top: 0.8rem;
     }
