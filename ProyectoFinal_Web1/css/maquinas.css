@@ -231,6 +231,19 @@ footer {
 .contenido {
     width: 95%;
 }
+@media (min-width: 300px) and (max-width: 450px) {
+
+    header h1 {
+        font-size: 2rem !important;
+    }
+
+    .logo {
+    width: 20%;
+    height: 20%;
+    margin-bottom: 1rem;
+    margin-top: 0.8rem;
+    }
+}
 
 @media (min-width: 300px) and (max-width: 450px) {
     main h2 {
