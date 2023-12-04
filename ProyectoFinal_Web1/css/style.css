@@ -159,9 +159,12 @@ iframe {
 @media (min-width: 300px) and (max-width: 450px) {
 
     .titulo {
-        font-size: 1.8rem;
+        font-size: 2rem;
     }
 
+    header h1{
+        font-size: 4.2rem;
+    }
     article p {
         text-align: justify;
         margin-top: -1rem;
