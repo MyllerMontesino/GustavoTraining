@@ -160,7 +160,7 @@ iframe {
     width: 0;
 }
 
-@media (min-width: 300px) and (max-width: 415px) {
+@media (min-width: 300px) and (max-width: 425px) {
 
     .titulo {
         font-size: 2rem;
