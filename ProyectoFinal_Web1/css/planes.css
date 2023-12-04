@@ -227,6 +227,20 @@ H5 {
 .info {
     color: antiquewhite;
 }
+@media (min-width: 300px) and (max-width: 450px) {
+
+    header h1 {
+        font-size: 1.7rem !important;
+    }
+
+    .logo {
+    width: 20%;
+    height: 20%;
+    margin-bottom: 1rem;
+    margin-top: 0.8rem;
+    }
+}
+
 
 @media (min-width: 300px) and (max-width: 450px) {
     main h2 {
