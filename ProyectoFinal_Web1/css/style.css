@@ -166,8 +166,10 @@ iframe {
     }
 
     .logo {
-        margin-top: 0.8rem;
-    }
+    width: 15%;
+    height: 15%;
+    margin-bottom: 1rem;
+    margin-top: 0.8rem;
 }
 
 @media (min-width: 300px) and (max-width: 450px) {
