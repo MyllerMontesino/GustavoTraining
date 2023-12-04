@@ -232,7 +232,7 @@ footer {
     width: 95%;
 }
 
-@media (min-width: 300px) and (max-width: 400px) {
+@media (min-width: 300px) and (max-width: 450px) {
     main h2 {
         font-size: 1.2rem;
         margin-top: -3.5rem;
