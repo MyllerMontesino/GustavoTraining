@@ -176,14 +176,6 @@ iframe {
         font-size: 2rem;
     }
 
-    header h1 {
-        font-size: 1.7rem !important;
-    }
-
-    .logo {
-        margin-top: 0.65rem;
-    }
-
     article p {
         text-align: justify;
         margin-top: -1rem;
