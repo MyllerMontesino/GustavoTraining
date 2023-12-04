@@ -159,13 +159,13 @@ iframe {
 @media (min-width: 300px) and (max-width: 450px) {
 
     .titulo {
-        font-size: 1.5rem;
+        font-size: 1.8rem;
     }
 
     article p {
         text-align: justify;
         margin-top: -1rem;
-        font-size: 0.5rem;
+        font-size: 0.7rem;
     }
 
     .imgGym {
