@@ -45,8 +45,8 @@ nav div a {
     font-size: 1.2em !important;
 }
 
-.nav-item :hover {
-    background-color: rgba(50, 94, 131, 0.705);
+div ul li a:hover {
+    color: rgb(245, 10, 10)!important;
 }
 
 #nav-itemp {
