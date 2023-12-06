@@ -68,7 +68,6 @@ nav {
     position: sticky;
     display: flex;
     top: 0;
-    margin: -1rem;
 }
 
 aside {
