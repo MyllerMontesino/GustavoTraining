@@ -67,7 +67,7 @@ nav {
 .container-fluid {
     position: sticky;
     display: flex
-    margin: -0.8rem;
+    margin: -1rem;
     top: 0;
 }
 
